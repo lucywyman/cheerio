@@ -47,7 +47,7 @@ goodbyes=[
     u'nabdgelyo (somali)',
     u'adi\U00000363s (spanish)',
     u'kwaheri (swahili)',
-    u'elveda (turkish)',
+    u'g\U00000374le g\U00000374le (turkish)',
     u'hwyl fawr (welsh)',
     u'o dab\U00017315 (yoruba)'
 ]
